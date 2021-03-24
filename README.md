@@ -16,7 +16,8 @@ $ figlet
 
 ![figlet](https://user-images.githubusercontent.com/80227002/111868500-87113780-897a-11eb-832b-66adbd5e56d5.jpeg)
  
-<hr> 
-Check: [Repo!!](https://yanlimeng.github.io/TERMUX) 
+<hr>
 
+### :point_right: [REPO TERMUX](https://yanlimeng.github.io/TERMUX)
 
+<hr>
